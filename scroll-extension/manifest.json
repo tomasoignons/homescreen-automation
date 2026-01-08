@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Scroll per Site",
+  "version": "1.0",
+  "description": "Scrolls different amounts on specific sites automatically.",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scroll.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

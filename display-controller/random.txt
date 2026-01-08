@@ -1,0 +1,3 @@
+sudo systemctl daemon-reload
+sudo systemctl restart display-controller.service
+sudo systemctl status display-controller.service

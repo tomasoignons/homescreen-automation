@@ -1,0 +1,6 @@
+2025/09/06-19:15:33.504 aa7e Reusing MANIFEST /home/emmanuel/kiosk-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/09/06-19:15:33.509 aa7e Recovering log #3
+2025/09/06-19:15:33.509 aa7e Reusing old log /home/emmanuel/kiosk-profile/Default/Local Storage/leveldb/000003.log 
+2025/09/06-19:16:33.511 aa7e Level-0 table #5: started
+2025/09/06-19:16:33.528 aa7e Level-0 table #5: 14978 bytes OK
+2025/09/06-19:16:33.533 aa7e Delete type=0 #3
